@@ -38,6 +38,6 @@ public class TestEx {
 			int i2=(int)d2;
 			
 			
-			
+			System.out.println(i2);
 	}
 }
