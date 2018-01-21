@@ -6,6 +6,7 @@ public class TestEx {
 		int i=20;
 		int j=30;
 		int k=40;
+		int l=50;
 		
 		char c='A';
 		char d='B';
@@ -25,7 +26,7 @@ public class TestEx {
 		System.out.println(c);
 		System.out.println(d);
 		System.out.println(e);
-		
+		System.out.println(l);
 		
 			
 			int i1=10;
