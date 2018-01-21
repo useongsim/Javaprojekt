@@ -7,6 +7,8 @@ public class VarKind {
 		int i1=10;
 		double d1=i1;
 		
+		
 		System.out.println(d1);
+		
 	}
 }
